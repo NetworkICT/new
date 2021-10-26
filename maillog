@@ -1,0 +1,66 @@
+Oct 24 04:40:08 localhost sendmail[6690]: 19NHe8Gj006690: scan003.ampereinnotech.com [139.162.247.102] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 24 04:41:08 localhost sendmail[6788]: 19NHf8Ho006788: scan-42.security.ipip.net [139.162.99.243] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 24 04:54:18 localhost sendmail[8126]: 19NHsICK008126: scan003.ampereinnotech.com [139.162.247.102]: probable open proxy: command=GET / HTTP/1.1\r\n
+Oct 24 04:54:18 localhost sendmail[8126]: 19NHsICK008126: scan003.ampereinnotech.com [139.162.247.102] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 24 08:57:00 localhost sendmail[1963]: 19NLuwxq001963: ruleset=check_rcpt, arg1=<spameri@tiscali.it>, relay=[45.133.1.247], reject=550 5.7.1 <spameri@tiscali.it>... Relaying denied. IP name lookup failed [45.133.1.247]
+Oct 24 08:57:01 localhost sendmail[1963]: 19NLuwxq001963: from=<spameri@tiscali.it>, size=0, class=0, nrcpts=0, proto=ESMTP, daemon=MTA, relay=[45.133.1.247]
+Oct 24 11:50:16 localhost sendmail[20975]: 19O0oGZt020975: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 24 12:43:33 localhost sendmail[26523]: 19O1hXNQ026523: sh-chi-us-gp1-wk102.internet-census.org [185.180.143.13]: probable open proxy: command=GET / HTTP/1.1\r\n
+Oct 24 12:43:33 localhost sendmail[26523]: 19O1hXNQ026523: sh-chi-us-gp1-wk102.internet-census.org [185.180.143.13] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 24 12:43:34 localhost sendmail[26525]: 19O1hYZd026525: sh-chi-us-gp1-wk102.internet-census.org [185.180.143.13] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 24 12:43:40 localhost sendmail[26528]: 19O1hZFt026528: sh-chi-us-gp1-wk102.internet-census.org [185.180.143.13] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 24 12:43:40 localhost sendmail[26536]: 19O1heHW026536: sh-chi-us-gp1-wk102.internet-census.org [185.180.143.13] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 24 12:43:40 localhost sendmail[26537]: 19O1heZQ026537: sh-chi-us-gp1-wk102.internet-census.org [185.180.143.13] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 24 12:43:41 localhost sendmail[26539]: 19O1hfFB026539: sh-chi-us-gp1-wk102.internet-census.org [185.180.143.13] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 24 13:43:33 localhost sendmail[487]: 19O2hVkX000487: ruleset=check_rcpt, arg1=<spameri@tiscali.it>, relay=60-248-213-66.hinet-ip.hinet.net [60.248.213.66], reject=550 5.7.1 <spameri@tiscali.it>... Relaying denied
+Oct 24 13:43:33 localhost sendmail[487]: 19O2hVkX000487: from=<spameri@tiscali.it>, size=0, class=0, nrcpts=0, proto=ESMTP, daemon=MTA, relay=60-248-213-66.hinet-ip.hinet.net [60.248.213.66]
+Oct 24 14:32:52 localhost sendmail[5676]: 19O3WpYE005676: scanner-09.ch1.censys-scanner.com [167.248.133.58] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 24 19:48:55 localhost sendmail[6249]: 19O8mrqV006249: ruleset=check_rcpt, arg1=<spameri@tiscali.it>, relay=[77.247.110.4], reject=550 5.7.1 <spameri@tiscali.it>... Relaying denied. IP name lookup failed [77.247.110.4]
+Oct 24 19:48:55 localhost sendmail[6249]: 19O8mrqV006249: from=<spameri@tiscali.it>, size=0, class=0, nrcpts=0, proto=ESMTP, daemon=MTA, relay=[77.247.110.4]
+Oct 24 22:38:23 localhost sendmail[30727]: 19OBcMUJ030727: ec2-54-146-6-122.compute-1.amazonaws.com [54.146.6.122] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 24 22:48:01 localhost sendmail[31683]: 19OBlxwl031683: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 24 22:57:38 localhost sendmail[32666]: 19OBva8V032666: ruleset=check_rcpt, arg1=<spameri@tiscali.it>, relay=[45.134.23.233], reject=550 5.7.1 <spameri@tiscali.it>... Relaying denied. IP name lookup failed [45.134.23.233]
+Oct 24 22:57:39 localhost sendmail[32666]: 19OBva8V032666: from=<spameri@tiscali.it>, size=0, class=0, nrcpts=0, proto=ESMTP, daemon=MTA, relay=[45.134.23.233]
+Oct 24 23:03:02 localhost sendmail[928]: 19OC325D000928: scan-17.shadowserver.org [65.49.20.66] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 25 00:53:46 localhost sendmail[15520]: 19ODrj3B015520: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 25 02:58:35 localhost sendmail[453]: 19OFwYKb000453: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 25 03:16:06 localhost sendmail[3888]: 19OGG5NC003888: ruleset=check_rcpt, arg1=<berkimarinosti@outlook.com>, relay=hwsrv-912914.hostwindsdns.com [104.168.215.173], reject=550 5.7.1 <berkimarinosti@outlook.com>... Relaying denied
+Oct 25 03:16:06 localhost sendmail[3887]: 19OGG5rD003887: ruleset=check_rcpt, arg1=<berkimarinosti@outlook.com>, relay=hwsrv-912914.hostwindsdns.com [104.168.215.173], reject=550 5.7.1 <berkimarinosti@outlook.com>... Relaying denied
+Oct 25 03:16:06 localhost sendmail[3887]: 19OGG5rD003887: from=<contact3418631701@nz.fujitsu.com>, size=0, class=0, nrcpts=0, bodytype=8BITMIME, proto=ESMTP, daemon=MTA, relay=hwsrv-912914.hostwindsdns.com [104.168.215.173]
+Oct 25 03:16:06 localhost sendmail[3888]: 19OGG5NC003888: from=<>, size=0, class=0, nrcpts=0, bodytype=8BITMIME, proto=ESMTP, daemon=MTA, relay=hwsrv-912914.hostwindsdns.com [104.168.215.173]
+Oct 25 05:03:05 localhost sendmail[24375]: 19OI33Lu024375: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 25 07:08:19 localhost sendmail[12295]: 19OK8Ih5012295: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 25 09:09:31 localhost sendmail[25959]: 19OM9USp025959: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 25 11:14:01 localhost sendmail[6626]: 19P0E0tm006626: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 25 13:19:13 localhost sendmail[19892]: 19P2JCSd019892: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 25 15:06:24 localhost sendmail[30996]: 19P46Nqu030996: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 25 15:14:55 localhost sendmail[31828]: 19P4EjZZ031828: census12.shodan.io [71.6.165.200] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 25 17:08:33 localhost sendmail[11645]: 19P68WJ0011645: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 25 19:14:00 localhost sendmail[24574]: 19P8DxrI024574: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 25 21:18:37 localhost sendmail[5183]: 19PAIacD005183: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 25 22:39:59 localhost sendmail[13998]: 19PBdwMf013998: [106.75.156.194] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 25 23:23:11 localhost sendmail[18418]: 19PCNApU018418: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 01:04:18 localhost sendmail[29096]: 19PE4INu029096: [64.62.197.182] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 01:27:33 localhost sendmail[31518]: 19PERWwb031518: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 01:49:19 localhost sendmail[1425]: 19PEnI0m001425: scanner-06.ch1.censys-scanner.com [167.94.138.42] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 02:19:11 localhost sendmail[4575]: 19PFJBxZ004575: [154.89.5.35] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 02:19:11 localhost sendmail[4576]: 19PFJB0N004576: [154.89.5.35] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 02:19:21 localhost sendmail[4586]: 19PFJKIK004586: [154.89.5.35] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 02:19:21 localhost sendmail[4588]: 19PFJLKr004588: [154.89.5.35]: probable open proxy: command=USER anonymous\r\n
+Oct 26 02:19:21 localhost sendmail[4588]: 19PFJLKr004588: [154.89.5.35] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 03:26:58 localhost sendmail[11742]: 19PGQu1R011742: ruleset=check_rcpt, arg1=<spameri@tiscali.it>, relay=[77.247.110.245], reject=550 5.7.1 <spameri@tiscali.it>... Relaying denied. IP name lookup failed [77.247.110.245]
+Oct 26 03:26:58 localhost sendmail[11742]: 19PGQu1R011742: from=<spameri@tiscali.it>, size=0, class=0, nrcpts=0, proto=ESMTP, daemon=MTA, relay=[77.247.110.245]
+Oct 26 03:31:08 localhost sendmail[12205]: 19PGV7ok012205: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 05:35:06 localhost sendmail[24872]: 19PIZ5t8024872: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 07:37:52 localhost sendmail[5322]: 19PKbprw005322: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 09:41:35 localhost sendmail[18529]: 19PMfYL5018529: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 11:44:42 localhost sendmail[31296]: 19Q0ifrs031296: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 12:27:48 localhost sendmail[3401]: 19Q1Rl2R003401: scanner-04.ch1.censys-scanner.com [162.142.125.41] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 13:47:38 localhost sendmail[11870]: 19Q2lbCA011870: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 15:51:35 localhost sendmail[25669]: 19Q4pYgv025669: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 15:55:35 localhost sendmail[26069]: 19Q4tXN4026069: ruleset=check_rcpt, arg1=<spameri@tiscali.it>, relay=[212.193.30.183], reject=550 5.7.1 <spameri@tiscali.it>... Relaying denied. IP name lookup failed [212.193.30.183]
+Oct 26 15:55:36 localhost sendmail[26069]: 19Q4tXN4026069: from=<spameri@tiscali.it>, size=0, class=0, nrcpts=0, proto=ESMTP, daemon=MTA, relay=[212.193.30.183]
+Oct 26 16:13:16 localhost sendmail[27960]: 19Q5DFpE027960: [167.94.138.115] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 17:55:34 localhost sendmail[6608]: 19Q6tX69006608: hosted-by.rootlayer.net [45.137.22.75] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 18:05:30 localhost sendmail[7731]: 19Q75UUo007731: scan-02.shadowserver.org [184.105.139.68] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
+Oct 26 18:20:02 localhost sendmail[9297]: 19Q7JqYI009297: 178-73-215-171-static.glesys.net [178.73.215.171] did not issue MAIL/EXPN/VRFY/ETRN during connection to MTA
